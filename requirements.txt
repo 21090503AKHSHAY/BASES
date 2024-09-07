@@ -1,0 +1,9 @@
+base32
+pybase32
+base45
+base58
+base62
+pybase62
+base64
+pyfiglet
+colorama
