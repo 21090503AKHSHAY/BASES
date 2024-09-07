@@ -1,6 +1,6 @@
-Created by Akhshay TP/ByteButcherX
+Created by Akhshay TP / ByteButcherX
 
-Linkedin    : https://www.linkedin.com/in/akhshay-t-p-510b86287/
+Linkedin    : https://www.linkedin.com/in/akhshay-t-p-510b86287/ 
 TryHackMe   : https://tryhackme.com/p/ByteButcherX
 
 USAGE:
